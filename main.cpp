@@ -1,4 +1,4 @@
-// Zadanie nr 1.2, Dawid Karol Glinkowski, nr indeksu 154837
+// Zadanie nr 1.2
 #include <iostream>
 #include <cmath>
 #include <stdio.h>
@@ -7,7 +7,7 @@
 using namespace std;
 int main ()
 {
-cout <<"Zadanie nr 1.2, Dawid Karol Glinkowski, nr indeksu 154837. "<<endl<<endl;
+cout <<"Zadanie nr 1.2. "<<endl<<endl;
 {                               //----------------> ZADANIE 1.1
 int x,y,z,m;
 float suma, srednia, sh;
