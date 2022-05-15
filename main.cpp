@@ -13,7 +13,7 @@ int x,y,z,m;
 float suma, srednia, sh;
 float a1, a2, a3;
     cout << "ZADANIE 1.1" <<endl;
-    cout << "Program   okresli najwieksza liczbe z trzech podanych, a takze policzy dla nich srednia arytmetyczna i harmoniczna."<<endl;
+    cout << "Program okresli najwieksza liczbe z trzech podanych, a takze policzy dla nich srednia arytmetyczna i harmoniczna."<<endl;
 	cout << "Podaj 3 liczby rozdzielone spacja: "<<endl;
 	cin>>x>>y>>z;
         m=x;
